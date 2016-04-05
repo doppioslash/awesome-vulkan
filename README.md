@@ -100,6 +100,7 @@ drm/kms.
 *  [Haskell bindings for Vulkan](https://github.com/expipiplus1/vulkan) - [[LICENSE]](https://github.com/expipiplus1/vulkan/blob/master/LICENSE).
 *  [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
 *  [libvc](https://github.com/alexhultman/libvc) - Vulkan Compute for C++. [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
+*  [vulkano](https://github.com/tomaka/vulkano) - Rust wrapper around the Vulkan graphics API - [MIT / Apache]
 
 ## Tools
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [MIT]
